@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cool Images</title>
+</head>
+<body>
+
+<h1>Cool Images</h1>
+<h2>Michael Agatucci</h2>
+
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="posters.html">Posters</a></li>
+    <li><a href="zoo.html">Zoo</a></li>
+</ul>
+
+<p>"turn off your mind relax and float down stream"</p>
+
+<img src="eyes.JPEG" alt="Eyes">
+
+<p>I chose this image because the art style is fascinating.</p>
+
+</body>
+</html>

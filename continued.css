@@ -1,0 +1,75 @@
+.customtext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.fontcombined {
+    font: bold 12px Courier, monospace;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+body {
+    background-color: #eeeeee;
+    background-image: url(myimage.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+main {
+    background-color: #0000ff;
+}
+
+.boxmodel {
+    border: 2px solid #0000ff;
+    padding: 20px;
+    margin: 10px;
+}
+
+.zeroout {
+    margin: 0;
+    padding: 0;
+}
+
+.pwidth {
+    width: 100px;
+}
+
+.textright {
+    text-align: right;
+}
+.textleft {
+    text-align: left;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.textjustify {
+    text-align: justify;
+}
+
+.textspace {
+    letter-spacing: 20px;
+}
+
+.textheight {
+    line-height: 20px;
+}
+
+.imgbox {
+    border: 2px solid #ff0000;
+    padding: 10px;
+    margin: 20px;
+    background-color: #0000ff;
+}
+
+.imgwidth {
+    width: 240px;
+}

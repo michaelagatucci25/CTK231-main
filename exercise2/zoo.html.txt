@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zoo</title>
+</head>
+<body>
+
+<h1>Zoo</h1>
+<h2>Michael Agatucci</h2>
+
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="posters.html">Posters</a></li>
+    <li><a href="zoo.html">Zoo</a></li>
+</ul>
+
+<img src="Zoo.gif" alt="Zoo">
+
+<p>I chose this image because I like the logo.</p>
+
+</body>
+</html>
